@@ -80,14 +80,14 @@ Summary for **ETH** *Zurich*
 
 [3]: https://github.com/DzenisAvdic/Air-Quality-and-Meteorology-Data-Logger/tree/main/Journal%20of%20Pervasive%20Technology%20reference%20files
 
-### 6 :: LOW-POLY 3D MODELING :: OPTIMISATION FOR UNITY AND UNREAL ENGINE
+### 6 :: LOW-POLY 3D MODELING :: OPTIMIZATION FOR UNITY AND UNREAL ENGINE
 
 -	Worflow includes various software for 3D modeling, retoplogy and texturing
--	Optimisation of highly detailed 3D models for web and UI/UX integration
+-	Optimization of highly detailed 3D models for web and UI/UX integration
 
 ![](images/monkey_quickRend.png)
 
-*Game 3D models optimised with low polygon count for mobile gaming implementation*
+*Game 3D models optimized with low polygon count for mobile gaming implementation*
 
 ![](/images/machine.jpg)
 
@@ -97,6 +97,10 @@ Summary for **ETH** *Zurich*
 
 *Animated preview*
 
+
+## THANK YOU FOR YOUR TIME
+### DŽENIS AVDIĆ
+#### dzenis.avdic@gmail.com
 
 
 
