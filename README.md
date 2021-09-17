@@ -35,7 +35,7 @@ Summary for **ETH** *Zurich*
 
 *Infiltration air change rate based on collected CO2 concentration level data - Python plot*
 
-[2]: LINK
+[2]: https://github.com/DzenisAvdic/Air-Quality-and-Meteorology-Data-Logger/blob/main/Journal%20of%20Pervasive%20Technology%20reference%20files/preprocessed_data_15_weeks.csv
 
 ### 4 :: DATA VERIFICATION AND VALIDATION USING CFD SIMULATIONS
 
