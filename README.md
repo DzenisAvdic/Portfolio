@@ -76,9 +76,10 @@ Summary for **ETH** *Zurich*
 
 *Accuracy of compared ML models for air moisture content*
 
--	Low-energy consumption [AI assisted system is proposed][3] for natural ventilation control and predictive maintenance (full paper attached to email)
+-	Low-energy consumption [AI assisted system is proposed][3] for natural ventilation control and predictive maintenance ([full paper][4])
 
 [3]: https://github.com/DzenisAvdic/Air-Quality-and-Meteorology-Data-Logger/tree/main/Journal%20of%20Pervasive%20Technology%20reference%20files
+[4]: http://ojs.sozu.us/ojs/index.php/jopt/article/view/6
 
 ### 6 :: LOW-POLY 3D MODELING :: OPTIMIZATION FOR UNITY AND UNREAL ENGINE
 
